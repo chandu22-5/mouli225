@@ -1,0 +1,95 @@
+[INFO] Scanning for projects...
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom
+2/5 KB   3/5 KB   5/5 KB   5/5 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom (5 KB at 12.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+2/13 KB   3/13 KB   5/13 KB   6/13 KB   7/13 KB   9/13 KB   10/13 KB   11/13 KB   13/13 KB   13/13 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom (13 KB at 529.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+2/23 KB    3/23 KB   5/23 KB   6/23 KB   7/23 KB   9/23 KB   10/23 KB   11/23 KB   13/23 KB   14/23 KB   15/23 KB   17/23 KB   18/23 KB   19/23 KB   21/23 KB   22/23 KB   23/23 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom (23 KB at 783.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+2/15 KB    3/15 KB   5/15 KB   6/15 KB   7/15 KB   9/15 KB   10/15 KB   11/15 KB   13/15 KB   14/15 KB   15/15 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom (15 KB at 563.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+4/23 KB    8/23 KB   12/23 KB   16/23 KB   20/23 KB   23/23 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar (23 KB at 851.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom
+4/5 KB     5/5 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom (5 KB at 265.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+4/23 KB   8/23 KB   12/23 KB   16/23 KB   20/23 KB   23/23 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar (23 KB at 1058.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom
+4/6 KB     6/6 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom (6 KB at 304.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom
+4/13 KB   8/13 KB   12/13 KB   13/13 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom (13 KB at 795.8 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/21/maven-parent-21.pom
+4/26 KB    8/26 KB   12/26 KB   16/26 KB   20/26 KB   24/26 KB   26/26 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/21/maven-parent-21.pom (26 KB at 677.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/apache/10/apache-10.pom
+4/15 KB    8/15 KB   12/15 KB   15/15 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/apache/10/apache-10.pom (15 KB at 850.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+4/27 KB    8/27 KB   12/27 KB   16/27 KB   20/27 KB   24/27 KB   27/27 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar (27 KB at 1247.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.pom
+4/20 KB    8/20 KB   12/20 KB   16/20 KB   20/20 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.pom (20 KB at 163.8 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom
+4/13 KB    8/13 KB   12/13 KB   13/13 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom (13 KB at 641.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/20/maven-parent-20.pom
+4/25 KB    8/25 KB   12/25 KB   16/25 KB   20/25 KB   24/25 KB   25/25 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/20/maven-parent-20.pom (25 KB at 1265.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/apache/9/apache-9.pom
+4/15 KB    8/15 KB   12/15 KB   15/15 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/apache/9/apache-9.pom (15 KB at 925.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.jar
+4/112 KB   8/112 KB   12/112 KB   16/112 KB   20/112 KB   24/112 KB   28/112 KB   32/112 KB   36/112 KB   40/112 KB   44/112 KB   48/112 KB   52/112 KB   56/112 KB   60/112 KB   64/112 KB   68/112 KB   72/112 KB   76/112 KB   80/112 KB   84/112 KB   88/112 KB   92/112 KB   96/112 KB   100/112 KB   104/112 KB   108/112 KB   112/112 KB                Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.jar (112 KB at 905.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.pom
+4/5 KB       5/5 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.pom (5 KB at 330.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/12/maven-plugins-12.pom
+4/12 KB   8/12 KB   12/12 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/12/maven-plugins-12.pom (12 KB at 674.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom
+4/33 KB    8/33 KB   12/33 KB   16/33 KB   20/33 KB   24/33 KB   28/33 KB   32/33 KB   33/33 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom (33 KB at 1687.8 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/apache/4/apache-4.pom
+4/5 KB     5/5 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/apache/4/apache-4.pom (5 KB at 337.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.jar
+4/24 KB   8/24 KB   12/24 KB   16/24 KB   20/24 KB   24/24 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.jar (24 KB at 1534.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.pom
+4/15 KB    8/15 KB   12/15 KB   15/15 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.pom (15 KB at 870.8 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/16/maven-plugins-16.pom
+4/13 KB    8/13 KB   12/13 KB   13/13 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/16/maven-plugins-16.pom (13 KB at 843.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/15/maven-parent-15.pom
+4/24 KB    8/24 KB   12/24 KB   16/24 KB   20/24 KB   24/24 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/15/maven-parent-15.pom (24 KB at 976.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/apache/6/apache-6.pom
+4/13 KB    8/13 KB   12/13 KB   13/13 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/apache/6/apache-6.pom (13 KB at 694.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.jar
+4/204 KB   8/204 KB   12/204 KB   16/204 KB   20/204 KB   24/204 KB   28/204 KB   32/204 KB   36/204 KB   40/204 KB   44/204 KB   48/204 KB   52/204 KB   56/204 KB   60/204 KB   64/204 KB   68/204 KB   72/204 KB   76/204 KB   80/204 KB   84/204 KB   88/204 KB   92/204 KB   96/204 KB   100/204 KB   104/204 KB   108/204 KB   112/204 KB   116/204 KB   120/204 KB   124/204 KB   128/204 KB   132/204 KB   136/204 KB   140/204 KB   144/204 KB   148/204 KB   152/204 KB   156/204 KB   160/204 KB   164/204 KB   168/204 KB   172/204 KB   176/204 KB   180/204 KB   184/204 KB   188/204 KB   192/204 KB   196/204 KB   200/204 KB   204/204 KB   204/204 KB                Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.jar (204 KB at 5512.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.1/maven-dependency-plugin-2.1.pom
+4/8 KB       8/8 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.1/maven-dependency-plugin-2.1.pom (8 KB at 378.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.1/maven-dependency-plugin-2.1.jar
+4/104 KB   8/104 KB   12/104 KB   16/104 KB   20/104 KB   24/104 KB   28/104 KB   32/104 KB   36/104 KB   40/104 KB   44/104 KB   48/104 KB   52/104 KB   56/104 KB   60/104 KB   64/104 KB   68/104 KB   72/104 KB   76/104 KB   80/104 KB   84/104 KB   88/104 KB   92/104 KB   96/104 KB   100/104 KB   104/104 KB   104/104 KB                Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.1/maven-dependency-plugin-2.1.jar (104 KB at 778.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.0/maven-release-plugin-2.0.pom
+4/8 KB       8/8 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.0/maven-release-plugin-2.0.pom (8 KB at 363.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/release/maven-release/2.0/maven-release-2.0.pom
+4/7 KB   7/7 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/release/maven-release/2.0/maven-release-2.0.pom (7 KB at 279.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.0/maven-release-plugin-2.0.jar
+4/38 KB   8/38 KB   12/38 KB   16/38 KB   20/38 KB   24/38 KB   28/38 KB   32/38 KB   36/38 KB   38/38 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.0/maven-release-plugin-2.0.jar (38 KB at 1979.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml
+4/14 KB    8/14 KB   12/14 KB   14/14 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml (14 KB at 773.8 KB/sec)
+2/21 KB    3/21 KB   5/21 KB   6/21 KB   7/21 KB   9/21 KB   10/21 KB   11/21 KB   13/21 KB   14/21 KB   15/21 KB   17/21 KB   18/21 KB   19/21 KB   21/21 KB   21/21 KB              Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml (21 KB at 387.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-archetype-plugin/maven-metadata.xml
+980/980 B               Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-archetype-plugin/maven-metadata.xml (980 B at 53.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-archetype-plugin/3.2.1/maven-archetype-plugin-3.2.1.pom
+2/12 KB     3/12 KB   5/12 KB   6/12 KB   7/12 KB   9/12 KB   10/12 KB   11/12 KB   12/12 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-archetype-plugin/3.2.1/maven-archetype-plugin-3.2.1.pom (12 KB at 523.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/archetype/maven-archetype/3.2.1/maven-archetype-3.2.1.pom
+2/13 KB    3/13 KB   5/13 KB   6/13 KB   7/13 KB   9/13 KB   10/13 KB   11/13 KB   13/13 KB   13/13 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/archetype/maven-archetype/3.2.1/maven-archetype-3.2.1.pom (13 KB at 518.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/34/maven-parent-34.pom
+4/42 KB    8/42 KB   12/42 KB   16/42 KB   20/42 KB   24/42 KB   28/42 KB   32/42 KB   36/42 KB   40/42 KB   42/42 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/34/maven-parent-34.pom (42 KB at 2614.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/apache/23/apache-23.pom
+4/18 KB    8/18 KB   12/18 KB   16/18 KB   18/18 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/apache/23/apache-23.pom (18 KB at 999.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-archetype-plugin/3.2.1/maven-archetype-plugin-3.2.1.jar
+4/99 KB    8/99 KB   12/99 KB   16/99 KB   20/99 KB   24/99 KB   28/99 KB   32/99 KB   36/99 KB   40/99 KB   44/99 KB   48/99 KB   52/99 KB   56/99 KB   60/99 KB   64/99 KB   68/99 KB   72/99 KB   76/99 KB   80/99 KB   84/99 KB   88/99 KB   92/99 KB   96/99 KB   99/99 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-archetype-plugin/3.2.1/maven-archetype-plugin-3.2.1.jar (99 KB at 3926.4 KB/sec)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 2.406s
+[INFO] Finished at: Thu Feb 15 07:54:40 UTC 2024
+[INFO] Final Memory: 8M/20M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Could not find goal 'genarate' in plugin org.apache.maven.plugins:maven-archetype-plugin:3.2.1 among available goals crawl, create-from-project, generate, help, integration-test, jar, update-local-catalog -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoNotFoundException
