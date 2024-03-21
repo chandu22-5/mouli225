@@ -28,6 +28,17 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+		 <snapshotRepository>
+		    <id>nexusRepo</id>
+		    <url>http:http://3.110.147.207:8081/repository/sample-release/</url>
+		 </snapshotRepository>
+		
+		 <repository>
+		    <id>nexusRepo</id>
+		    <url>http://3.110.147.207:8081/repository/sample-snapshot/</url>
+		 </repository>
+  </distributionManagement>
 
   <build>
     <finalName>insurance</finalName>
